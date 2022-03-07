@@ -1,0 +1,51 @@
+capital_city,state,state_full_name,zip_code
+Montgomery,AL,Alabama,36104
+Juneau,AK,Alaska,99801
+Phoenix,AZ,Arizona,85001
+Little Rock,AR,Arkansas,72201
+Sacramento,CA,California,95814
+Denver,CO,Colorado,80202
+Hartford,CT,Connecticut,06103
+Dover,DE,Delaware,19901
+Tallahassee,FL,Florida,32301
+Atlanta,GA,Georgia,30303
+Honolulu,HI,Hawaii,96813
+Boise,ID,Idaho,83702
+Springfield,IL,Illinois,62701
+Indianapolis,IN,Indiana,46225
+Des Moines,IA,Iowa,50309
+Topeka,KS,Kansas,66603
+Frankfort,KY,Kentucky,40601
+Baton Rouge,LA,Louisiana,70802
+Augusta,ME,Maine,04330
+Annapolis,MD,Maryland,21401
+Boston,MA,Massachusetts,02201
+Lansing,MI,Michigan,48933
+St. Paul,MN,Minnesota,55102
+Jackson,MS,Mississippi,39205
+Jefferson City,MO,Missouri,65101
+Helena,MT,Montana,59623
+Lincoln,NE,Nebraska,68502
+Carson City,NV,Nevada,89701
+Concord,NH,New Hampshire,03301
+Trenton,NJ,New Jersey,08608
+Santa Fe,NM,New Mexico,87501
+Albany,NY,New York,12207
+Raleigh,NC,North Carolina,27601
+Bismarck,ND,North Dakota,58501
+Columbus,OH,Ohio,43215
+Oklahoma City,OK,Oklahoma,73102
+Salem,OR,Oregon,97301
+"Harrisburg,",PA,Pennsylvania,17101
+Providence,RI,Rhode Island,02903
+Columbia,SC,South Carolina,29217
+Pierre,SD,South Dakota,57501
+Nashville,TN,Tennessee,37219
+Austin,TX,Texas,78701
+Salt Lake City,UT,Utah,84111
+Montpelier,VT,Vermont,05602
+Richmond,VA,Virginia,23219
+Olympia,WA,Washington,98507
+Charleston,WV,West Virginia,25301
+Madison,WI,Wisconsin,53703
+Cheyenne,WY,Wyoming,82001

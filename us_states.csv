@@ -1,0 +1,51 @@
+capital_city,state,state_full_name,zip_code,lat,lon
+Montgomery,AL,Alabama,36104,32.373,-86.3081
+Juneau,AK,Alaska,99801,58.3628,-134.5294
+Phoenix,AZ,Arizona,85001,33.4484,-112.074
+Little Rock,AR,Arkansas,72201,34.7483,-92.2819
+Sacramento,CA,California,95814,38.5804,-121.4922
+Denver,CO,Colorado,80202,39.7491,-104.9946
+Hartford,CT,Connecticut,6103,41.7672,-72.676
+Dover,DE,Delaware,19901,39.1564,-75.4955
+Tallahassee,FL,Florida,32301,30.4286,-84.2593
+Atlanta,GA,Georgia,30303,33.7525,-84.3888
+Honolulu,HI,Hawaii,96813,21.3179,-157.8521
+Boise,ID,Idaho,83702,43.6322,-116.2052
+Springfield,IL,Illinois,62701,39.8,-89.6495
+Indianapolis,IN,Indiana,46225,39.7406,-86.1569
+Des Moines,IA,Iowa,50309,41.5887,-93.6212
+Topeka,KS,Kansas,66603,39.0553,-95.6802
+Frankfort,KY,Kentucky,40601,38.2281,-84.8697
+Baton Rouge,LA,Louisiana,70802,30.4438,-91.1775
+Augusta,ME,Maine,4330,44.3232,-69.7665
+Annapolis,MD,Maryland,21401,38.9898,-76.5501
+Boston,MA,Massachusetts,2201,42.3584,-71.0598
+Lansing,MI,Michigan,48933,42.7334,-84.5571
+St. Paul,MN,Minnesota,55102,44.9372,-93.1209
+Jackson,MS,Mississippi,39205,32.2988,-90.1848
+Jefferson City,MO,Missouri,65101,38.5462,-92.1525
+Helena,MT,Montana,59623,46.5901,-112.0402
+Lincoln,NE,Nebraska,68502,40.7893,-96.6938
+Carson City,NV,Nevada,89701,39.1507,-119.7459
+Concord,NH,New Hampshire,3301,43.2185,-71.5277
+Trenton,NJ,New Jersey,8608,40.2204,-74.7622
+Santa Fe,NM,New Mexico,87501,35.6975,-105.9821
+Albany,NY,New York,12207,42.6526,-73.7562
+Raleigh,NC,North Carolina,27601,35.7727,-78.6324
+Bismarck,ND,North Dakota,58501,46.8083,-100.7837
+Columbus,OH,Ohio,43215,39.9671,-83.0044
+Oklahoma City,OK,Oklahoma,73102,35.4726,-97.5199
+Salem,OR,Oregon,97301,44.949,-123.004
+"Harrisburg,",PA,Pennsylvania,17101,40.2618,-76.8831
+Providence,RI,Rhode Island,2903,41.82,-71.4158
+Columbia,SC,South Carolina,29217,34.0007,-81.0348
+Pierre,SD,South Dakota,57501,44.3695,-100.3211
+Nashville,TN,Tennessee,37219,36.1678,-86.7837
+Austin,TX,Texas,78701,30.2713,-97.7426
+Salt Lake City,UT,Utah,84111,40.7548,-111.881
+Montpelier,VT,Vermont,5602,44.2641,-72.577
+Richmond,VA,Virginia,23219,37.5463,-77.4378
+Olympia,WA,Washington,98507,47.0379,-122.9007
+Charleston,WV,West Virginia,25301,38.349,-81.6306
+Madison,WI,Wisconsin,53703,43.0775,-89.3831
+Cheyenne,WY,Wyoming,82001,41.1437,-104.7962
